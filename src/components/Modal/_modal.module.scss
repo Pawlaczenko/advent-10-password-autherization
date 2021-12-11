@@ -1,0 +1,12 @@
+.modal {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+
+    background: white;
+    box-shadow: 0px 23px 44px #CAD0E0;
+    border-radius: 10px;
+    min-width: 575px;
+    padding: 70px 35px 30px;
+}
